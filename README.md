@@ -1,5 +1,5 @@
 # Hello World!, I'm Ramazon, an Uzbek Web Developer 👋🏼:
-🛜 currently learning in Korea, South<br>👀Finding a job to Full Stack Developer <br>🎬 just started out with my youtube channel <i>ramazondev00</i>
+🛜 currently learning in Korea, South<br>👀South Korea-based Software Developer and Robotics Engineer specializing in 3D Vision Robot Automation. <br>🎬 just started out with my youtube channel <i>ramazondev00</i>
 
 
 # 💻 Tech Stack:
