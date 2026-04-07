@@ -17,9 +17,4 @@
 <a href="https://www.youtube.com/@ramazondev00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramazondev" height="30" width="40" /></a>
 <a href="https://discord.gg/ramazondev00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramazondev00" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazon5533&label=Profile%20views&color=0e75b6&style=flat" alt="ramazon5533" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazon5533&show_icons=true&locale=en&layout=compact" alt="ramazon5533" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazon5533&" alt="ramazon5533" /></p>
