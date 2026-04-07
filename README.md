@@ -2,6 +2,7 @@
 🚀 Industrial Vision Engineer | AI Developer | Robotics Enthusiast
 
 🧠 About Me
+
 🔭 I’m working on 3D Robot Vision Systems
 🤖 Integrating Basler Cameras + Robots (Doosan / Hyundai / Kawasaki / Yaskawa / Fanuc)
 🧩 Developing ICP Matching & Point Cloud Processing (PLY) & 3D Vision Scanning Programs
@@ -9,6 +10,7 @@
 ⚡ Building AI-powered inspection systems
 
 📊 What I Build
+
 📷 2D / 3D Vision Inspection Systems
 🧊 Point Cloud Processing (PLY, Depth Maps)
 🎯 ICP Matching Algorithms
