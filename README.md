@@ -11,7 +11,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazon5533&label=Profile%20views&color=0e75b6&style=flat" alt="ramazon5533" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramazondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazondev" height="30" width="40" /></a>
